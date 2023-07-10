@@ -4,6 +4,6 @@ export enum routes {
   INDEX_HTML = '/index.html',
   PRIVATE_ROOM = '/private/:roomId',
   PUBLIC_ROOM = '/public/:roomId',
-  ROOT = '/',
+  ROOT = '/chitchatter',
   SETTINGS = '/settings',
 }
